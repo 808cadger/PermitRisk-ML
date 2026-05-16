@@ -1,0 +1,9 @@
+{
+  "missing_documents": 0.55,
+  "reviewer_queue": 0.055,
+  "prior_revisions": 0.72,
+  "project_value_over_2_5m": 0.28,
+  "contractor_approved_count_over_12": -0.5,
+  "commercial_or_civil": 0.45,
+  "coastal_or_historic": 0.55
+}
